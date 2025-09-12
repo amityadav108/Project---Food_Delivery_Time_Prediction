@@ -3,13 +3,6 @@
 Predict whether a food delivery will be Fast or Delayed based on customer location, restaurant location, weather, traffic conditions, and other factors. This is a binary classification problem where the model outputs:
 Fast → Delivered within the expected time
 Delayed → Delivered later than expected
-Project Structure
-Food-Delivery-Time-Prediction/
-│
-├── Food_Delivery_Time_Prediction.csv   # Dataset
-├── Food_Delivery_Prediction.ipynb      # Jupyter Notebook with all code
-├── README.md                           # Project documentation
-└── images/                             # (Optional) Plots and confusion matrix screenshots
 
 ## Features
 Data Preprocessing: Missing value handling, categorical encoding, feature scaling.
