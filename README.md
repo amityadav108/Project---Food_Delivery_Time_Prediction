@@ -6,12 +6,19 @@ Delayed → Delivered later than expected
 
 ## Features
 Data Preprocessing: Missing value handling, categorical encoding, feature scaling.
+
 Feature Engineering: Binary classification target creation, distance calculations.
+
 Modeling:
+
 Gaussian Naive Bayes
+
 K-Nearest Neighbors (KNN) with hyperparameter tuning
+
 Decision Tree with pruning to avoid overfitting
+
 Evaluation Metrics: Accuracy, Precision, Recall, F1-score, Confusion Matrix, ROC curves.
+
 Model Comparison: Identifies the best-performing classifier.
 
 ## Requirements
